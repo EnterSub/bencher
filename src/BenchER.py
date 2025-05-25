@@ -114,7 +114,7 @@ result = DataFrame.from_dict(correlations, orient='index')
 result.columns = ['statistics', 'p_value']
 result = result[result.p_value >= hypothesis_coeff]
 
-connectable = create_engine("postgresql+psycopg2://postgres:1@localhost:5432/postgres")
+connectable = create_engine("postgresql+psycopg2://***:***@***:***/***")
 for i in data_s:
     with connectable.connect() as connection:
 
