@@ -4,4 +4,4 @@ change column names etc.
 The table, column names or other names coincidences are accidental.
 
 
-Image example from [Unsplash.](https://unsplash.com/)
+Bench image from [Unsplash.](https://unsplash.com/)
